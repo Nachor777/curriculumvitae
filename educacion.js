@@ -19,6 +19,22 @@ educacion1.innerHTML = `
 <br>
 `;
 
+var educacion12 = document.getElementById("educacion12")
+educacion12.innerHTML = `
+<h2>📕Criptomonedas & Fintech </h2>
+<h4>👨‍🎓Coder House</h4>
+<br>
+`;
+
+
+var educacion11 = document.getElementById("educacion11")
+educacion11.innerHTML = `
+<h2>📕Product Manager </h2>
+<h4>👨‍🎓Coder House</h4>
+<br>
+`;
+
+
 var educacion2 = document.getElementById("educacion2")
 educacion2.innerHTML = `
 <h2>📕Google Project Management Certificate </h2>
