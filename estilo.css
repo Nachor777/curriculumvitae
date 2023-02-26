@@ -306,19 +306,7 @@
     }
   }
 
-  #educacion12 {
-    font-size: 20px;
-    font-weight: bold;
-    border-bottom: 1px solid#333 ;
-    text-align: center;
-  }
 
-  #educacion11 {
-    font-size: 20px;
-    font-weight: bold;
-    border-bottom: 1px solid#333 ;
-    text-align: center;
-  }
 
 
 #educacion1 {
@@ -376,7 +364,19 @@
     border-bottom: 1px solid#333 ;
     text-align: center;
   }
+  #educacion12 {
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: 1px solid#333 ;
+    text-align: center;
+  }
 
+  #educacion11 {
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: 1px solid#333 ;
+    text-align: center;
+  }
 
 
 #sobremi {
