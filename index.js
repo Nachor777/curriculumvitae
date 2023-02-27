@@ -6,13 +6,13 @@ Subtitle.innerHTML = `
 
 var Intro = document.getElementById("Intro");
 Intro.innerHTML = `
-<p>Soy un jugador de equipo apasionado y altamente comprometido con la organización, la estrategia y los resultados. Tengo habilidades en gestión de proyectos y automatización 
+<p> <strong>Soy un jugador de equipo apasionado y altamente comprometido con la organización, la estrategia y los resultados. Tengo habilidades en gestión de proyectos y automatización 
 de procesos, lo que me permite planificar, coordinar y supervisar el trabajo de equipo con eficacia y eficiencia. Además, soy una persona sociable y creativa que siempre 
 busca agregar valor en cualquier lugar donde me desempeñe.
 <br></br>
 Si buscas a alguien con habilidades interpersonales fuertes, un enfoque en los resultados y una actitud positiva, entonces soy la persona que buscas. 
 Si te gustaría hablar más sobre cómo puedo contribuir a tu equipo, por favor, no dudes en contactarme. Espero tener la oportunidad 
-de trabajar contigo en el futuro. <br></br>¡Gracias por tu tiempo y consideración!</p>`;
+de trabajar contigo en el futuro. <br></br>¡Gracias por tu tiempo y consideración!</strong></p>`;
 
 document.getElementById("titulo").style.animationDuration = "20s";
 
