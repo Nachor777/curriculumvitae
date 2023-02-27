@@ -22,7 +22,7 @@ menu.innerHTML = `
 `;
 
 var Menu_Lateral = document.getElementById("Menu_Lateral")
-Menu_Lateral.innerHTML =`<p> 🫵 Contáctame 🫵 </p>`;
+Menu_Lateral.innerHTML =`<p> Contáctame </p>`;
 
 var Footer = document.getElementById("footer")
 Footer.innerHTML = `
