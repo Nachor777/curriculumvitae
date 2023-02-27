@@ -15,8 +15,8 @@ Experiencia1.innerHTML = `
 <h2>✔️Product Analyst Global Business solutions</h2>
 <h3>📌Fiserv</h3>
 <h4>📅 12.2021 - Actualidad</h4>
-<p>👉 Como Analista de producto adquirente, soy el Owner del proceso de altas, bajas y modificaciones de los Merchant Category Codes. Soy responsable de la página web pública y privada de Fiserv y gestiono incidencias y requerimientos a equipos multidisciplinarios. 
-También estoy a cargo de la gestión de proyectos en este ámbito..</p>
+<p>👉 Mi trabajo como Analista de Producto Adquirente consiste en manejar el proceso de altas, bajas y modificaciones de Ramos/MCC. Soy responsable de administrar la página web pública y privada de Fiserv, además de coordinar la resolución de incidencias y requerimientos junto a equipos multidisciplinarios. Como gestor de proyectos, también me encargo de liderar iniciativas y asegurar que se 
+cumplan los objetivos en el ámbito de mi área de especialización.</p>
 `;
 var Experiencia2 = document.getElementById("Experiencia2");
 Experiencia2.innerHTML = `
