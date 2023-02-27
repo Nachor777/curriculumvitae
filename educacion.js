@@ -7,9 +7,9 @@ educacionintro.innerHTML = `
 var educacionp = document.getElementById("educacionp")
 educacionp.innerHTML = `
 
-<p>He asistido a cursos, talleres y webinars en diferentes áreas como marketing digital, finanzas y liderazgo empresarial, y he obtenido varios certificados en estas áreas. 
+<p><strong>He asistido a cursos, talleres y webinars en diferentes áreas como marketing digital, finanzas y liderazgo empresarial, y he obtenido varios certificados en estas áreas. 
 Siempre estoy en búsqueda de nuevos desafíos educativos y creo firmemente que nunca se deja de aprender. La educación es una inversión valiosa en uno mismo y siempre 
-trato de buscar oportunidades para aprender y mejorar mis habilidades. </p>
+trato de buscar oportunidades para aprender y mejorar mis habilidades.</strong> </p>
 `;
 
 var educacion1 = document.getElementById("educacion1")
